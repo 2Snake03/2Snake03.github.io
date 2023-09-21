@@ -9,7 +9,7 @@ header,
 nav,
 main,
 footer {
-  border: 2 green solid;
+  border: 2px green solid;
   padding: auto;
   margin: auto;
 }
@@ -33,4 +33,16 @@ a:visited {
 #index {
   padding: auto;
   margin: auto;
+}
+
+nav {
+  float: left;
+}
+
+main {
+  float: left;
+}
+
+footer {
+  clear: both;
 }
