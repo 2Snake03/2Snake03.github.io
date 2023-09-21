@@ -34,3 +34,23 @@ a:visited {
   padding: auto;
   margin: auto;
 }
+
+header {
+  width: 500;
+  height: 250;
+}
+
+footer {
+  width: 500;
+  height: 250;
+}
+
+nav {
+  width: 500;
+  height: 250;
+}
+
+main {
+  width: 500;
+  height: 500;
+}
