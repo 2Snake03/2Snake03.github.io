@@ -83,3 +83,18 @@ footer:hover {
 #img1:hover {
   border: 4px dotted green;
 }
+
+#gra1 {
+  float: left;
+  width: 400px;
+  height: 400px;
+}
+
+#indexg {
+  width: 805px;
+  height: 500px;
+}
+
+.indexg {
+  width: 805px;
+}
