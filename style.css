@@ -26,6 +26,10 @@ a:active {
   color: springgreen;
 }
 
+a:visited {
+  color: darkgreen;
+}
+
 #index {
   padding: auto;
   margin: auto;
