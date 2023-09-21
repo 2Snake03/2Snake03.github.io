@@ -12,6 +12,7 @@ footer {
   border: 2px green solid;
   padding: auto;
   margin: auto;
+  width: 750px;
 }
 
 a:link {
@@ -36,21 +37,21 @@ a:visited {
 }
 
 header {
-  width: 500;
-  height: 250;
+  width: 750px;
+  height: 150px;
 }
 
 footer {
-  width: 500;
-  height: 250;
+  width: 750px;
+  height: 50px;
 }
 
 nav {
-  width: 500;
-  height: 250;
+  width: 750px;
+  height: 50px;
 }
 
 main {
-  width: 500;
-  height: 500;
+  width: 750px;
+  height: 500px;
 }
