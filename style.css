@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: springgreen;
+  text-align: center;
+}
+
+div,
+header,
+nav,
+main,
+footer {
+  border: 2 green solid;
+  padding: auto;
+  margin: auto;
+}
+
+a:link {
+  color: darkgreen;
+}
+
+a:hover {
+  color: palegreen;
+}
+
+a:active {
+  color: springgreen;
+}
+
+#index {
+  padding: auto;
+  margin: auto;
+}
