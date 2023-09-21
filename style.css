@@ -59,3 +59,19 @@ main {
   width: 750px;
   height: 500px;
 }
+
+footer:hover {
+  color: red;
+}
+
+#h1:hover {
+  color: blue;
+}
+
+#h3:hover {
+  color: green;
+}
+
+#h4:hover {
+  color: red;
+}
