@@ -75,3 +75,11 @@ footer:hover {
 #h4:hover {
   color: red;
 }
+
+#img1 {
+  border: 2px solid green;
+}
+
+#img1:hover {
+  border: 4px dotted green;
+}
