@@ -98,3 +98,7 @@ footer:hover {
 .indexg {
   width: 805px;
 }
+
+li {
+  text-align: left;
+}
