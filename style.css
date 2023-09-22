@@ -102,3 +102,9 @@ footer:hover {
 li {
   text-align: left;
 }
+
+#indexe {
+  padding: auto;
+  margin: auto;
+  overflow-y: scroll;
+}
